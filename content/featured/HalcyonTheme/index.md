@@ -8,8 +8,6 @@ tech:
   - Python
   - Django
   - Javascript
-  - Html
-  - Typescript
   - Bootstrap
 ---
 
