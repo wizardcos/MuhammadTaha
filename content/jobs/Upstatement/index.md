@@ -1,13 +1,13 @@
 ---
-date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+date: '2022-11-15'
+title: 'Senior Developer'
+company: 'Teksun Lights Pvt. LTD'
+location: 'Faisalabad, Pakistan'
+range: 'Nov 2022 - Present'
+url: 'https://www.teksunlights.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Developed and maintained company website, ensuring a user-friendly experience and implementing regular updates to reflect current products and services.
+- Developed and maintaining the automatic inventory system that tracks each and every projects and automatically update the stocks according to the usage in project.
+- Created and scheduled social media posts across various platforms to increase brand visibility and engagement.
+- Managed company Account using Excel and Google Docs, maintaining accurate records and ensuring efficient management

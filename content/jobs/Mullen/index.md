@@ -1,9 +1,9 @@
 ---
-date: '2015-12-21'
+date: '2020-12-21'
 title: 'Creative Technologist Co-op'
 company: 'MullenLowe'
 location: 'Boston, MA'
-range: 'July - December 2015'
+range: 'Sept - December 2020'
 url: 'https://us.mullenlowe.com/'
 ---
 

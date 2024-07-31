@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'UAE Desert Safari'
+cover: './s1.png'
+github: 'https://github.com/wizardcos/'
+external: ''
 tech:
-  - React
+  - Next.js
   - Styled Components
   - Express
-  - Spotify API
-  - Heroku
+  - API
+  - Scss
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+The UAE Desert Safari website offers an immersive experience for exploring desert adventures, built with Next.js for fast, server-side rendering. It uses Styled Components for styling, Express for backend integration, and SCSS for enhanced styling capabilities. The site also features robust API integration for dynamic content.

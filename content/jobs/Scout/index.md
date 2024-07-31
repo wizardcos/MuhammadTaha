@@ -1,9 +1,9 @@
 ---
-date: '2017-04-01'
+date: '2022-04-01'
 title: 'Developer'
 company: 'Scout Studio'
 location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
+range: 'Spring 2022 & 2023'
 url: 'https://web.northeastern.edu/scout/'
 ---
 
