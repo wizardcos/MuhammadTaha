@@ -1,7 +1,7 @@
 ---
 date: '2022-11-15'
 title: 'Senior Developer'
-company: 'Teksun Lights Pvt. LTD'
+company: 'Teksun Pvt.'
 location: 'Faisalabad, Pakistan'
 range: 'Nov 2022 - Present'
 url: 'https://www.teksunlights.com/'

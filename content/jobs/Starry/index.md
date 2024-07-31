@@ -1,7 +1,7 @@
 ---
 date: '2023-02-21'
 title: 'Graphic Designer & Devloper'
-company: 'NUMCS Society'
+company: 'NUMCS '
 location: 'Faisalabad, Pakistan'
 range: 'Feb - Present'
 url: 'https://www.facebook.com/numcsfsd'
