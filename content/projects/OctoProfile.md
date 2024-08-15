@@ -1,13 +1,14 @@
 ---
-date: '2019-07-15'
-title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
-external: 'https://octoprofile.now.sh'
+date: '2024-08-15'
+title: 'Google-Search-Engine-clone'
+github: 'https://github.com/wizardcos/Google_Search_Clone'
+external: 'https://googlesearch-engineclone.netlify.app/'
 tech:
-  - Next.js
-  - Chart.js
-  - GitHub API
+  - React.jsx
+  - Tailwind CSS
+  - Google API
+  - Axios
 showInProjects: true
 ---
 
-A nicer look at your GitHub profile and repo stats. Includes data visualizations of your top languages, starred repositories, and sort through your top repos by number of stars, forks, and size.
+In this Project i have created a fully functional & fully responsive google search engine clone single page application with react js, tailwind css & Google Custom Search API.
