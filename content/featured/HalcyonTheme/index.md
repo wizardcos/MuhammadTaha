@@ -3,7 +3,7 @@ date: '1'
 title: 'Inventory Management'
 cover: './inv.png'
 github: 'https://github.com/wizardcos/inventory/'
-external: ''
+external: 'https://taha1.pythonanywhere.com/l/'
 tech:
   - Python
   - Django
