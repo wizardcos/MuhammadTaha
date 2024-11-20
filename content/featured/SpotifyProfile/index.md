@@ -2,7 +2,7 @@
 date: '2'
 title: 'UAE Desert Safari'
 cover: './s1.png'
-github: '[https://github.com/wizardcos/](https://github.com/PirateCoderz/uaedesert)'
+github: '(https://github.com/PirateCoderz/uaedesert)'
 external: 'https://uae-desert-adventures.vercel.app/'
 tech:
   - Next.js
